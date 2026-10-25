@@ -15,7 +15,7 @@ Client-server security assessment tool suite featuring an authenticated TCP cont
 
 1. **Clone the Repository:**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/BraedenVenne/8561-Midterm.git
    cd 8561-Midterm
    ```
 
